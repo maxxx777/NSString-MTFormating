@@ -9,11 +9,11 @@ returns first character of string with length greater than one.
 
 Example #1
 ====================
-`[@"text" mt_formatFirstCharacter]` returns `t`
+`[@"text" mt_formatFirstCharacter]` returns `@"t"`
 
 Example #2
 ====================
-`[@"" mt_formatFirstCharacter]` returns ``
+`[@"" mt_formatFirstCharacter]` returns `@""`
 
 Usage
 ====================
