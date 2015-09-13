@@ -1,7 +1,7 @@
 NSString-MTFormating
 ====================
 
-These category includes additional methods for formatting of NSString class intstances.
+This category includes additional methods for formatting of NSString class intstances.
 
 `- (NSString *)mt_formatFirstCharacter`
 
@@ -17,7 +17,7 @@ Example #2
 
 Usage
 ====================
-Just copy files into your project and include `NSString+MTFormatting.h`. 
+Just copy files from Classes into your project and include `NSString+MTFormatting.h`. 
 
 DemoApp
 ====================
