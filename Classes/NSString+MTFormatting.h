@@ -9,5 +9,6 @@
 @interface NSString (MTFormatting)
 
 - (NSString *)mt_formatFirstCharacter;
+- (NSString *)mt_formatDocumentsPath;
 
 @end
